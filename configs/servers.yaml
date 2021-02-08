@@ -1,0 +1,7 @@
+  Servers:
+    server1:  # server name
+      Command: "./server 0.0.0.0:8387"
+      LogFile: "./server1.log"
+    server2:
+      Command: "./server 0.0.0.0:8388"
+      LogFile: "./server2.log"
